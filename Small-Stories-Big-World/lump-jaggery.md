@@ -181,11 +181,12 @@ A curious thing had happened.
 
 The evenings had not become any shorter.
 
+<img class="text-wrap-image" src="assets/jaggery-n8.png" >
+
 They had simply become something to look forward to.
 
 And somewhere next door, a little girl was probably wondering whether the mangoes would taste sweeter in tomorrow's version of the story.
 
-<img class="text-wrap-image" src="assets/jaggery-n8.png" >
 
 The next evening, Srinivas was on the veranda ten minutes earlier than usual.
 
