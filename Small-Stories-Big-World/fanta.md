@@ -46,8 +46,6 @@ I picked up the bottle and tilted it toward the light. There was only a little l
 
 Perfect.
 
-<img class="text-wrap-image" src="assets/fanta4.png" >
-
 Without another thought, I put the bottle to my lips and took a big gulp.
 
 The next second, I jumped.
