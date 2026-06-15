@@ -114,6 +114,8 @@ A knot formed in his stomach.
 
 The sun began to sink lower.
 
+<img class="text-wrap-image" src="assets/kite5.png" >
+
 Shadows stretched across the road.
 
 Birds flew home in noisy groups.
@@ -122,7 +124,6 @@ For the first time that day, Muthu felt very small.
 
 He sat beneath the neem tree, clutching the green kite.
 
-<img class="text-wrap-image" src="assets/kite5.png" >
 
 What if he never found his way back?
 
@@ -138,13 +139,13 @@ When Muthu did not return by evening, she asked Ravi where he had gone.
 
 Soon the whole family was searching.
 
-<img class="text-wrap-image" src="assets/kite6.png" >
-
 Ravi checked the playground.
 
 Amma asked shopkeepers.
 
 And Shivanna walked through street after street, calling out his son’s name.
+
+<img class="text-wrap-image" src="assets/kite6.png" >
 
 “Muthu!”
 
