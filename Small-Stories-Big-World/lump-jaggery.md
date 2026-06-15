@@ -10,21 +10,15 @@ Among them was a little girl named Anagha, who was four years old and possessed 
 
 On the very first day, she marched into his courtyard carrying a broken plastic bucket.
 <img class="text-wrap-image" src="assets/jaggery-n1.png" >
-
 "Hi," she announced, "this is my treasure box."
-
 Srinivas peered into it.
-
-
 Inside were three pebbles, a bottle cap, a feather, and what looked suspiciously like a dead leaf.
 
 "A fine collection," he said gravely.
-
 From that day onward, Anagha visited every evening.
 
+<img class="text-wrap-image-right" src="assets/jaggery-n2.png" >
 Somewhere along the way, Anagha began calling him "Thatha".  Srinivas never asked why. Secretly, he liked the title far more than he cared to admit.
-<img class="text-wrap-image" src="assets/jaggery-n2.png" >
-
 She would sit cross-legged beside him on the veranda while he shelled peanuts or watered the jasmine plants.
 
 At first, she spoke endlessly.
