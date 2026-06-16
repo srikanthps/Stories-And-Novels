@@ -1,7 +1,5 @@
 # The English Surprise
 
-The Wrong Exam
-
 It was examination week at Vidyaniketan School.
 
 Eight-year-old Ravi sat at his study table on Monday evening, surrounded by Mathematics books. Tomorrow was the Mathematics exam, and he wanted to do well.
