@@ -6,6 +6,8 @@ It was examination week at Vidyaniketan School.
 
 Eight-year-old Ravi sat at his study table on Monday evening, surrounded by Mathematics books. Tomorrow was the Mathematics exam, and he wanted to do well.
 
+<img class="text-wrap-image" src="assets/exam1.png" >
+
 For two hours he practised addition, subtraction, multiplication, and word problems. Before going to bed, he solved one last worksheet and smiled.
 
 “I am ready for Maths!” he told his mother.
@@ -15,6 +17,8 @@ The next morning, Ravi walked confidently to school with his Mathematics textboo
 As he entered the classroom, something seemed strange.
 
 His friends were not discussing multiplication tables.
+
+<img class="text-wrap-image-right" src="assets/exam2.png" >
 
 Instead, they were reading English textbooks.
 
@@ -31,6 +35,8 @@ His friend Kiran looked surprised.
 Ravi laughed nervously.
 
 “No, today is Mathematics.”
+
+<img class="text-wrap-image" src="assets/exam3.png" >
 
 Kiran shook his head and pointed to the examination timetable pinned on the classroom notice board.
 
@@ -49,6 +55,8 @@ Ravi had copied the dates incorrectly into his notebook.
 For a moment he felt like crying.
 
 He had spent the whole evening preparing for the wrong subject.
+
+<img class="text-wrap-image-right" src="assets/exam4.png" >
 
 Just then, Kiran handed him an English notebook.
 
@@ -99,6 +107,8 @@ As he solved problems for the second time, he smiled.
 Before sleeping that night, Ravi checked the examination timetable once.
 
 Then he checked it again.
+
+<img class="text-wrap-image" src="assets/exam5.png" >
 
 His mother laughed.
 
