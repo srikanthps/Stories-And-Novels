@@ -19,3 +19,5 @@ Small stories from ordinary Indian lives
 9. [The Lock That Wouldn’t Stay Locked](./lock.md)
 
 10. [Padma and Parade](./parade.md)
+
+11. [The English Surprise](./exam.md)
