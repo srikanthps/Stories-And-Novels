@@ -8,8 +8,8 @@ One summer, a new family moved into the house next door.
 
 Among them was a little girl named Anagha, who was four years old and possessed the astonishing confidence that only four-year-olds possess.
 
-On the very first day, she marched into his courtyard carrying a broken plastic bucket.
 <img class="text-wrap-image" src="assets/jaggery-n1.png" >
+On the very first day, she marched into his courtyard carrying a broken plastic bucket.
 "Hi," she announced, "this is my treasure box."
 Srinivas peered into it.
 Inside were three pebbles, a bottle cap, a feather, and what looked suspiciously like a dead leaf.
@@ -21,32 +21,21 @@ From that day onward, Anagha visited every evening.
 Somewhere along the way, Anagha began calling him "Thatha".  Srinivas never asked why. Secretly, he liked the title far more than he cared to admit.
 She would sit cross-legged beside him on the veranda while he shelled peanuts or watered the jasmine plants.
 
+<img class="text-wrap-image" src="assets/jaggery-n3.png" >
 At first, she spoke endlessly.
-
 About ants.
-
 About clouds.
-
 About why cats did not wear shoes.
-
 About how her father was very tall but still could not touch the moon.
-
 Srinivas listened as though each topic were of national importance.
 
-<img class="text-wrap-image" src="assets/jaggery-n3.png" >
 
 One evening, when she had exhausted her supply of questions, she asked, "Thatha, what did you do when you were little?"
-
 Srinivas smiled.
-
 "No television."
-
 "No tablet?"
-
 "No tablet."
-
 "No phone?"
-
 "No phone."
 
 Anagha looked genuinely concerned.
@@ -59,7 +48,7 @@ He told her about climbing mango trees and returning home with scratched knees.
 
 About paper boats sailing down monsoon gutters.
 
-<img class="text-wrap-image" src="assets/jaggery-n4.png" >
+<img class="text-wrap-image-right" src="assets/jaggery-n4.png" >
 
 About stealing tamarind pods from a neighbour's tree and then confessing because the guilt was heavier than the tamarind.
 
@@ -125,7 +114,7 @@ He told her about a clay pot made by a village potter. The pot leaned slightly t
 
 Nobody bought it.
 
-<img class="text-wrap-image" src="assets/jaggery-n6.png" >
+<img class="text-wrap-image-right" src="assets/jaggery-n6.png" >
 
 Years later, a woman purchased it cheaply and used it to grow a flowering plant. Because the pot leaned, the flowers spilled beautifully over the edge.
 
