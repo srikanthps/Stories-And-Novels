@@ -157,7 +157,7 @@ For many years, evenings had seemed longer than he liked.
 
 There was always another hour to fill, another sunset to watch alone.
 
-<img class="text-wrap-image" src="assets/jaggery-n8.png" >
+<img class="text-wrap-image-right" src="assets/jaggery-n8.png" >
 
 Now, as he rose to go inside, he found himself wondering what story he would tell tomorrow.
 
