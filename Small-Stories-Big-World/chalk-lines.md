@@ -285,3 +285,7 @@ For just an instant, she thought she could hear Padma, Lata, Rekha and Sushma la
 “Let me show you how we spent our summer holidays.”
 
 And as the first hop echoed across the old colony road, an old game found two new players.
+
+---
+
+[Kith Kith Game Play Guide](./kith kith.md)
