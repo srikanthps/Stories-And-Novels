@@ -10,6 +10,8 @@ It was the summer holidays. She had brought her daughter Anya and her young son 
 
 The colony looked smaller now than it had when she was a child. The neem trees were taller. Some houses had new paint. A few old families had moved away.
 
+<img class="text-wrap-image" src="assets/chalk1.png" >
+
 Yet the road was exactly where she remembered it.
 
 The same road where every evening belonged to the children.
@@ -29,6 +31,8 @@ Lata.
 Rekha.
 
 Sushma.
+
+<img class="text-wrap-image-right" src="assets/chalk2.png" >
 
 The Kith-Kith court had been drawn neatly across the tar road with white chalk.
 
@@ -85,6 +89,8 @@ A cheer erupted.
 Now came the jump.
 
 She pushed off.
+
+<img class="text-wrap-image" src="assets/chalk3.png" >
 
 For a moment she seemed to float above the forbidden row.
 
@@ -162,6 +168,8 @@ Then the entire road exploded with cheers.
 
 “Complete!”
 
+<img class="text-wrap-image" src="assets/chalk4.png" >
+
 Even Padma and Lata clapped.
 
 Meera had conquered the blockade.
@@ -221,6 +229,8 @@ Her mother laughed.
 “You children played that game every single day.”
 
 Meera bent down and picked up a small flat stone from beside the road.
+
+<img class="text-wrap-image" src="assets/chalk5.png" >
 
 Then she looked at Anya and Arjun.
 
