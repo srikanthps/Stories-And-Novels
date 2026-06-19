@@ -16,7 +16,7 @@ Small stories from ordinary Indian lives
 
 8. [The Fanta Ambussh](./fanta.md)
 
-9. [The Chalk Lines](./chalik-lines.md)
+9. [The Chalk Lines](./chalk-lines.md)
 
 10. [The Lock That Wouldn’t Stay Locked](./lock.md)
 
