@@ -16,8 +16,10 @@ Small stories from ordinary Indian lives
 
 8. [The Fanta Ambussh](./fanta.md)
 
-9. [The Lock That Wouldn’t Stay Locked](./lock.md)
+9. [The Chalk Lines](./chalik-lines.md)
 
-10. [Padma and Parade](./parade.md)
+10. [The Lock That Wouldn’t Stay Locked](./lock.md)
 
-11. [The English Surprise](./exam.md)
+11. [Padma and Parade](./parade.md)
+
+12. [The English Surprise](./exam.md)
