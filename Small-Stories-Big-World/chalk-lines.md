@@ -288,4 +288,4 @@ And as the first hop echoed across the old colony road, an old game found two ne
 
 ---
 
-[Kith Kith Game Play Guide](./kith kith.md)
+[Kith Kith Game Play Guide](./kithkith.md)
