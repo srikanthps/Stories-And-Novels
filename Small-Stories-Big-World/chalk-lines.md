@@ -230,7 +230,7 @@ Her mother laughed.
 
 Meera bent down and picked up a small flat stone from beside the road.
 
-<img class="text-wrap-image" src="assets/chalk5.png" >
+<img class="text-wrap-image-right" src="assets/chalk5.png" >
 
 Then she looked at Anya and Arjun.
 
