@@ -1,3 +1,7 @@
+---
+title: Padma and Parade
+---
+
 # Padma and Parade
 
 The first week of August brought a special excitement to Government High School in Mysuru.
