@@ -1,3 +1,7 @@
+---
+title: The Fanta Ambush
+---
+
 # The Fanta Ambush
 
 It was a hot summer evening in the mid-1980s.
