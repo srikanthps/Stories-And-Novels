@@ -1,3 +1,7 @@
+---
+title: The Sand Cave
+---
+
 # The Sand Cave
 
 One sunny afternoon, a truck rumbled into the playground beside the government quarters.
