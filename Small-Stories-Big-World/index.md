@@ -1,8 +1,5 @@
 # Small stories from Big world
 
-Small stories from ordinary Indian lives
-
-## Chapters
 
 1. [The Lump of Jaggery](./lump-jaggery.md)
 
