@@ -142,14 +142,16 @@ Madhav looked around the table. The sorrow that had weighed down his heart for t
 
 ---
 
-_**Haleya beeru hosa chiguru beseva setu,
+_**
+Haleya beeru hosa chiguru beseva setu,
 Mareta mannina mamateya madhura maatu.
 Kaalada birugaali eshte beesalilli,
 Akshara deepavu belagali manemaneyalli.
 **
 _
 
-**An ancient root, a fresh shoot, bound by a bridge,
+**
+An ancient root, a fresh shoot, bound by a bridge,
 The sweet words of a forgotten soil's affection.
 No matter how fierce the storms of time blow here,
 May the lamp of letters light up every single home.
