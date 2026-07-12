@@ -1,5 +1,5 @@
 ---
-title: The sand castle (comic strip edition)
+title: The Sand Cave (comic strip edition)
 ---
 
 <img src="assets/sandcastle-c1.png">
