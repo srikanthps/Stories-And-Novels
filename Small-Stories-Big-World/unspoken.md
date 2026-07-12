@@ -96,7 +96,7 @@ Ananya paused, her fork halfway to her mouth. Suddenly, she felt a strange, elec
 
 Her friends stopped talking, looking at her with raised eyebrows. Kabir laughed, "What language? French?"
 
-"No," Ananya said proudly, looking directly at them. "Kannada. The word is **ಬೆರಗು** (*Beragu*) mixed with **ಶೂನ್ಯತೆ** (*Shoonyate*). My grandfather taught me yesterday. *Shoonyate* isn't just being empty or bored. It’s that deep, heavy, existential stillness you feel when something grand suddenly disappears, leaving you staring into nothingness."
+"No," Ananya said proudly, looking directly at them. "Kannada. The phrase is ಬೆರಗು (Beragu) mixed with ಶೂನ್ಯತೆ (Shoonyate). My grandfather taught me yesterday. Beragu means a state of utter, breathless wonder or being deeply struck with awe. And Shoonyate isn't just being empty or bored; it’s that deep, heavy, existential stillness you feel when something grand suddenly disappears. Together, they mean you are left completely frozen in awe, staring into nothingness."
 
 The table went completely quiet. Rohan blinked, stunned by the sheer accuracy of the definition.
 
