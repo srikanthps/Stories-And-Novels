@@ -2,7 +2,7 @@
 
 ## Short stories
 
-1. [ಅಕ್ಷರ ಸೇತು](ಅಕ್ಷರ-ಸೇತು.md) <small>(English translation: [The Weight of Unspoken Words](./unspoken.md))</small>
+1. [ಅಕ್ಷರ ಸೇತು](ಅಕ್ಷರ-ಸೇತು.md) <small>(English translation: [The bridge of letters](./unspoken.md))</small>
    
 ## Children stories
 1. [The Lump of Jaggery](./lump-jaggery.md)
