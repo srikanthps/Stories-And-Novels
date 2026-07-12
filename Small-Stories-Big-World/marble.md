@@ -1,5 +1,5 @@
 ---
-title: he Marble Treasure
+title: The Marble Treasure
 ---
 
 # The Marble Treasure
