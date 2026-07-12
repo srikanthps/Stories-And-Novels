@@ -1,5 +1,5 @@
 ---
-title: The sand castle (comic strip edition for mobile phones)
+title: The Sand Cave (comic strip edition for mobile phones)
 ---
 
 <img src="assets/sandcave-mc1.png">
