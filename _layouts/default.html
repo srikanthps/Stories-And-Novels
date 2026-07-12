@@ -143,14 +143,18 @@
   <nav class="breadcrumb" aria-label="breadcrumb">
     <ol>
       <li><a href="{{ site.baseurl }}/">Home</a></li>
+      {% assign chunks = page.url | remove_first: '/' | split: '/' %}
       {% assign path = "" %}
-      {% for crumb in crumbs %}
-        {% if crumb != "" and crumb != "index.html" %}
-          {% assign path = path | append: '/' | append: crumb %}
+      
+      {% for chunk in chunks %}
+        {% if chunk != "" and chunk != "index.html" %}
+          {% assign path = path | append: '/' | append: chunk %}
+          
           {% if forloop.last %}
-            <li>{{ crumb | replace: '-', ' ' | capitalize }}</li>
+            <!-- For the final leaf node, use the page's explicit front matter title if available -->
+            <li>{{ page.title | default: chunk | replace: '-', ' ' | capitalize }}</li>
           {% else %}
-            <li><a href="{{ site.baseurl }}{{ path }}/">{{ crumb | replace: '-', ' ' | capitalize }}</a></li>
+            <li><a href="{{ site.baseurl }}{{ path }}/">{{ chunk | replace: '-', ' ' | capitalize }}</a></li>
           {% endif %}
         {% endif %}
       {% endfor %}
