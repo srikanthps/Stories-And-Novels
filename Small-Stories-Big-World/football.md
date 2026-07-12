@@ -1,5 +1,8 @@
-# The day rain gave them the field
+---
+title: The day rain gave them the field
+---
 
+# The day rain gave them the field
 
 The playground sat in the middle of the government quarters like a village square.
 
