@@ -8,9 +8,6 @@ Welcome to my collection of stories and novels.
 
 Collection of short stories inspired from life experiences.
 
-#### [The Weight of Unspoken Words]({{ site.baseurl }}/Small-Stories-Big-World/unspoken.md)
-
-Story about discovery of a vital part of rich life.
 
 
 #### [The Companion]({{ site.baseurl }}/The-Companion/)
