@@ -1,3 +1,7 @@
+---
+title: The Kite That Flew Too Far
+---
+
 # The Kite That Flew Too Far
 
 The January sky above Tumakuru was alive with color.
