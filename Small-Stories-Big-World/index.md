@@ -2,7 +2,7 @@
 
 ## Short stories
 
-1. [The Weight of Unspoken Words](./unspoken.md) / 
+1. [The Weight of Unspoken Words](./unspoken.md) / [ಅಕ್ಷರ ಸೇತು](akshara-setu.md)
 
    
 ## Children stories
