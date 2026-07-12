@@ -16,7 +16,7 @@ Every evening, Madhav watched his son and daughter-in-law return from their corp
 
 *"Maga, tomorrow college ge leave ide, let's go out somewhere,"* his grandson would shout into a gaming headset.
 
-It wasn't just his family. In the metro, in the sprawling malls, and in upscale cafes, he saw an entire generation completely detached from the weight of their own language. Urban families seemed absolutely happy, almost proud, that their children couldn't read the script or speak a single sentence of pure, classic Kannada. The language was being systematically pushed out of modern living rooms, relegated to street signs and domestic chores. \[2\]
+It wasn't just his family. In the metro, in the sprawling malls, and in upscale cafes, he saw an entire generation completely detached from the weight of their own language. Urban families seemed absolutely happy, almost proud, that their children couldn't read the script or speak a single sentence of pure, classic Kannada. The language was being systematically pushed out of modern living rooms, relegated to street signs and domestic chores.
 
 Madhav closed his book and looked out at the city skyline. A quiet tear of regret, but also of fierce determination, welled in his eyes. He felt deeply sorry for a society that was trading its ancient, golden heritage for a superficial convenience. They were starving themselves of their own literature, thinking they were being progressive.
 
@@ -58,7 +58,7 @@ Arvind sat down on the edge of the cane stool nearby. He reached out and touched
 
 "Then why did you stop speaking it cleanly at home, Arvind?" Madhav asked gently, completely devoid of anger, asking purely out of a grandfather's curiosity.
 
-Arvind sighed, looking out at the sprawling concrete grid of Jayanagar. "I don't know, Pa. The world just became so fast. In the office, it's English. In the presentations, it's English. When we come home, we are so exhausted that we just slide into whatever language requires the least amount of mental resistance. Kanglish became the default. We didn't do it on purpose. It just... happened." \[3\]
+Arvind sighed, looking out at the sprawling concrete grid of Jayanagar. "I don't know, Pa. The world just became so fast. In the office, it's English. In the presentations, it's English. When we come home, we are so exhausted that we just slide into whatever language requires the least amount of mental resistance. Kanglish became the default. We didn't do it on purpose. It just... happened."
 
 "That is how a language quietly passes away, my son," Madhav said, closing the book gently but keeping his hand firmly on it. "Not with a loud protest, but with a comfortable, silent shrug. You think you are just mixing words for convenience, but you are slowly erasing the vocabulary of your ancestors' emotions. If Ananya only knows how to say *'leave ide'*, she will never understand the true rest and peace of *'vishranthi'*."
 
@@ -122,7 +122,7 @@ Murthy glanced at the Kannada book in Madhav’s hands and chuckled condescendin
 
 Madhav placed a dried leaf as a bookmark and closed the book gently. He looked at Murthy, a man who had lived in Bengaluru his whole life but prided himself on his children living in the US and speaking only English.
 
-"Murthy avare," Madhav said, his voice smooth and untroubled. "I spent forty years in Delhi writing English reports for the government. It filled my bank account, yes. But it never filled my soul. A language is not just a commercial tool to make money. It is a lens through which you view existence." \[4\]
+"Murthy avare," Madhav said, his voice smooth and untroubled. "I spent forty years in Delhi writing English reports for the government. It filled my bank account, yes. But it never filled my soul. A language is not just a commercial tool to make money. It is a lens through which you view existence."
 
 He stood up, holding the book close to his chest. "When I read Tejaswi describing the mist rolling over the Western Ghats, I am not just reading words. I am breathing the history of my ancestors. Your English can explain the mechanics of a cloud, but it cannot capture the sacred relationship between a Kannada farmer and his rain. You think you are being practical, but you are leaving your grandchildren spiritually homeless in their own city."
 
