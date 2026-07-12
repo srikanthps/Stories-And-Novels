@@ -1,3 +1,7 @@
+---
+title: The Lock That Wouldn’t Stay Locked
+---
+
 # The Lock That Wouldn’t Stay Locked
 
 Vivek studied in Class Five. He loved football so much that he could never stop thinking about it.
