@@ -1,3 +1,7 @@
+---
+title: The sand castle (comic strip edition)
+---
+
 <img src="assets/sandcastle-c1.png">
 
 <img src="assets/sandcastle-c2.png">
