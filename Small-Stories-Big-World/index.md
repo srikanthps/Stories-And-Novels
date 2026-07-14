@@ -15,7 +15,7 @@
 
 7. [The Marble Treasure](./marble.md)
 
-8. [The Fanta Ambussh](./fanta.md)
+8. [ಫ್ಯಾಂಟಾ ಫಜೀತಿ](fanta-pajiti.md) / [The Fanta Ambussh](./fanta.md)
 
 9. [The Chalk Lines](./chalk-lines.md)
 
