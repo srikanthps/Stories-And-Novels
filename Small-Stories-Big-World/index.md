@@ -2,12 +2,12 @@
 
 ## Short stories
 
-1. [ಅಕ್ಷರ ಸೇತು](akshar-setup.md) <small>(English translation: [The bridge of letters](./unspoken.md))</small>
+1. [ಅಕ್ಷರ ಸೇತು](akshar-setup.md) / [The bridge of letters](./unspoken.md)) 
    
 ## Children stories
 1. [The Lump of Jaggery](./lump-jaggery.md)
 
-2. [The Evening the Rain Gave Them the Ground](./football.md)
+2. [ಕರಗದ ಸಂಜೆ](karagada-sanje.md)  / [The Evening the Rain Gave Them the Ground](./football.md)
 
 3. [The Kite That Flew Too Far](./kite.md)
 
