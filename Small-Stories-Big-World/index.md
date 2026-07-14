@@ -21,6 +21,6 @@
 
 10. [The Lock That Wouldn’t Stay Locked](./lock.md)
 
-11. [Padma and Parade](./parade.md)
+11. [ತ್ರಿವರ್ಣದ ನೆರಳಿನಲ್ಲಿ...](trivarnada-nerlinalli.md) / [Padma and Parade](./parade.md)
 
 12. [The English Surprise](./exam.md)
