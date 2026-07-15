@@ -11,7 +11,7 @@
 
 3. [The Kite That Flew Too Far](./kite.md)
 
-4. [The Sand Cave](./sandcave.md) <small>  -- [Comic (Tablet)](./sand-castle-comic.md) -- [Comic (Mobile)](./sandcave-comic-mobile.md) </small>
+4. [ಮರಳಿನ ಗೂಡ](maralida-goodu.md) / [The Sand Cave](./sandcave.md) <small>  -- [Comic (Tablet)](./sand-castle-comic.md) -- [Comic (Mobile)](./sandcave-comic-mobile.md) </small>
 
 7. [The Marble Treasure](./marble.md)
 
