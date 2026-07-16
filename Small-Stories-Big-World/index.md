@@ -13,7 +13,7 @@
 
 4. [ಮರಳಿನ ಗೂಡ](maralida-goodu.md) / [The Sand Cave](./sandcave.md) <small>  -- [Comic (Tablet)](./sand-castle-comic.md) -- [Comic (Mobile)](./sandcave-comic-mobile.md) </small>
 
-7. [ಗುತ್ತ ಮತ್ತು ಗೀಟು](gattu-geete.md) /  [The Marble Treasure](./marble.md)
+7. [ಗುತ್ತ ಮತ್ತು ಗೀಟು](gattu-geetu.md) /  [The Marble Treasure](./marble.md)
 
 8. [ಫ್ಯಾಂಟಾ ಫಜೀತಿ](fanta-pajiti.md) / [The Fanta Ambussh](./fanta.md)
 
