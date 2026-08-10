@@ -2,7 +2,8 @@
 
 ## Short stories
 
-1. [ಅಕ್ಷರ ಸೇತು](akshar-setup.md) / [The bridge of letters](./unspoken.md) 
+1. [ಅಕ್ಷರ ಸೇತು](akshar-setup.md) / [The bridge of letters](./unspoken.md)
+2. [Bannagara - A superhero](bannagara.md)
    
 ## Children stories
 1. [The Lump of Jaggery](./lump-jaggery.md)
